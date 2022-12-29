@@ -1,5 +1,5 @@
 # Github-Finder
-React.js project consuming data from GitHub API
+React.js project consuming data from GitHub API, to find Github users and see their repositories (in progress)
 
 # 🚀 **Techs**
 
